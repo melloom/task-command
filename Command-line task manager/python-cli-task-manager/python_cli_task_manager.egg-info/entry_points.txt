@@ -1,0 +1,4 @@
+[console_scripts]
+task-cli = task_manager.main:main
+task-gui = task_manager.gui:launch_gui
+task-manager = task_manager.gui:launch_gui

@@ -1,0 +1,5 @@
+# No external dependencies required - uses standard library only
+# For the advanced GUI, these optional packages can be installed:
+# customtkinter>=5.2.0
+# Pillow>=9.0.0
+# ttkthemes>=3.2.0
